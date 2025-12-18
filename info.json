@@ -1,0 +1,9 @@
+{
+  "name": "nuke-oil",
+  "version": "1.0.0",
+  "title": "Nuke Oil",
+  "author": "pavel-krush",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Allows you to destroy oil patches using atomic bombs. Drop an atomic bomb on an oil field to permanently remove it from the map."
+}

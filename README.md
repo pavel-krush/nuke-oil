@@ -15,7 +15,7 @@ Tired of oil patches in inconvenient locations? This mod allows you to permanent
 
 ## Compatibility
 
-- Factorio version: 2.0+
+- Factorio version: 2.1+
 - Should be compatible with most other mods
 
 ## Notes
